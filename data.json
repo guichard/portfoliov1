@@ -1,0 +1,20 @@
+[
+    {
+        "image": "./portofigma.png",
+        "title": "premier projet",
+        "description": "Il s'agit de mon tout premier projet, qui consiste à présenter les outils d'automatisation de Zapier. Ce projet met en avant la manière dont Zapier peut simplifier et automatiser des tâches répétitives, offrant ainsi une meilleure efficacité dans la gestion des flux de travail.",
+        "link": "https://www.figma.com/deck/xN86PHagCLTM8hQGdTUUoH/zapier?node-id=1-67&t=qdd445S0TqZ9B3EI-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1"
+    },
+    {
+        "image": "./kenpachi2.png",
+        "title": "deuxieme projet",
+        "description": "Ce projet est dédié à Kenpachi Zaraki, le capitaine de la 11ème division du Gotei 13 dans l'univers de Bleach. Il m'a permis de débuter en JavaScript en créant un compteur qui calcule le nombre de jours de vie du personnage, basé sur sa date de naissance. Ce projet a été une excellente occasion de mettre en pratique mes compétences en programmation tout en explorant l'univers du manga.",
+        "link": "https://guichard.github.io/kenpachii/"
+    },
+    {
+        "image": "./pasta restau.jpg",
+        "title": "troisieme projet",
+        "description": "Pour mon troisième projet, j'ai décidé de créer un site web pour un restaurant fictif nommé 'Pasta la vista'. Ce projet m'a permis de mettre en pratique mes compétences en HTML, CSS et JavaScript, tout en explorant le design et l'ergonomie d'un site web. J'ai également intégré des fonctionnalités telles que la réservation en ligne et la consultation du menu, offrant ainsi une expérience utilisateur complète.",
+        "link": "https://guichard.github.io/pizzapasta/"
+    }
+]
